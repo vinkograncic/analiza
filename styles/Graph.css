@@ -1,0 +1,29 @@
+.container {
+    display: grid;
+
+    place-items: center; /* Centrira elemente horizontalno i vertikalno */
+    height: 100vh; /* Postavljanje visine kontejnera na visinu cijelog prozora */
+    grid-auto-flow: column; /* Ovo će postaviti da elementi idu po stupcima */
+
+  }
+
+.item-row{
+    border: 1px black solid;
+    height:80%;
+    justify-content: space-around;
+
+
+}
+
+.item-row1{
+    grid-column: 1 / span 2;
+        grid-row: 1;
+    
+      
+}
+
+.item-row2{
+    grid-column: 1;
+    grid-row: 2;
+}
+

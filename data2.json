@@ -1,0 +1,2342 @@
+[
+    {
+      "x": 15.962046001,
+      "y": 45.8075959990001,
+      "id": 1,
+      "naziv": "Adžijina - istok",
+      "linije": 2,
+      "Opis": "smjer Črnomerc",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9615850000001,
+      "y": 45.8077899990001,
+      "id": 2,
+      "naziv": "Adžijina - zapad",
+      "linije": 2,
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0696580000001,
+      "y": 45.8285569990001,
+      "id": 3,
+      "naziv": "Aleja javora - jug",
+      "linije": "4,11,34",
+      "Opis": "smjer Dubec",
+      "Napomena": ""
+    },
+    {
+      "x": 16.067935,
+      "y": 45.8288679990001,
+      "id": 4,
+      "naziv": "Aleja javora - sjever",
+      "linije": "4,11,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.952866,
+      "y": 45.778084999,
+      "id": 5,
+      "naziv": "Arena Zagreb - istok",
+      "linije": "7,14,31",
+      "Opis": "smjer Savski most",
+      "Napomena": ""
+    },
+    {
+      "x": 15.952778,
+      "y": 45.777930999,
+      "id": 6,
+      "naziv": "Arena Zagreb - zapad",
+      "linije": "7,14,31",
+      "Opis": "smjer Zapruđe",
+      "Napomena": ""
+    },
+    {
+      "x": 15.993662999,
+      "y": 45.8043019990001,
+      "id": 7,
+      "naziv": "Autobusni kol. - istok",
+      "linije": "2,5,6,7,8,31",
+      "Opis": "smjer Ulica kneza Branimira\\Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9939010000001,
+      "y": 45.8036959990001,
+      "id": 8,
+      "naziv": "Autobusni kol. - zapad",
+      "linije": "2,5,6,7,8,31",
+      "Opis": "smjer iz grada",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9593160000001,
+      "y": 45.8016769990001,
+      "id": 9,
+      "naziv": "Badalićeva - jug",
+      "linije": "3,9,12,34",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9596470000001,
+      "y": 45.8019839990001,
+      "id": 10,
+      "naziv": "Badalićeva - sjever",
+      "linije": "3,9,12,34",
+      "Opis": "smjer Ljubljanica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9798650000001,
+      "y": 45.822280999,
+      "id": 11,
+      "naziv": "Belostenčeva - istok",
+      "linije": "8,14,33",
+      "Opis": "smjer Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9798250010001,
+      "y": 45.8226279990001,
+      "id": 12,
+      "naziv": "Belostenčeva - zapad",
+      "linije": "8,14,33",
+      "Opis": "smjer Draškovićeva ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0184100000001,
+      "y": 45.814178999,
+      "id": 13,
+      "naziv": "Borongaj izlaz - jug",
+      "linije": "1,9,17,32",
+      "Opis": "terminal Borongaj izlaz",
+      "Napomena": ""
+    },
+    {
+      "x": 16.018836,
+      "y": 45.8145509990001,
+      "id": 14,
+      "naziv": "Borongaj ulaz - sjever",
+      "linije": "1,9,17,32",
+      "Opis": "terminal Borongaj ulaz",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0042950000001,
+      "y": 45.788804999,
+      "id": 15,
+      "naziv": "Borovje - istok",
+      "linije": "6,7,8,31",
+      "Opis": "smjer Vukovarska ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 16.004202999,
+      "y": 45.788551999,
+      "id": 16,
+      "naziv": "Borovje - zapad",
+      "linije": "6,7,8,31",
+      "Opis": "smjer Novi Zagreb",
+      "Napomena": ""
+    },
+    {
+      "x": 15.974188,
+      "y": 45.8056739990001,
+      "id": 17,
+      "naziv": "Botanički vrt - sjever",
+      "linije": "2,4,9,33",
+      "Opis": "Smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.973644,
+      "y": 45.8055719990001,
+      "id": 18,
+      "naziv": "Botanički vrt - jug",
+      "linije": "2,4,9,33",
+      "Opis": "smjer Glavni kolodvor\\Draškovićeva ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9919770000001,
+      "y": 45.8061249990001,
+      "id": 19,
+      "naziv": "Branim. tržnica - jug",
+      "linije": "2,6,8,31",
+      "Opis": "smjer Autobusni kolodvor",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9914669990001,
+      "y": 45.806120999,
+      "id": 20,
+      "naziv": "Branim. tržnica - sjever",
+      "linije": "2,6,8,31",
+      "Opis": "smjer Glavni kolodvor",
+      "Napomena": ""
+    },
+    {
+      "x": 15.983735,
+      "y": 45.805489999,
+      "id": 21,
+      "naziv": "Branimirova - jug",
+      "linije": "2,4,6,9,13,31,33,34",
+      "Opis": "smjer Autobusni kolodvor \\Draškovićeva ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.984476,
+      "y": 45.805602999,
+      "id": 22,
+      "naziv": "Branimirova - sjever",
+      "linije": "2,6,8,31",
+      "Opis": "smjer Glavni kolodvor\\Draškovićeva ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.963038999,
+      "y": 45.8122769990001,
+      "id": 23,
+      "naziv": "Britanski trg - jug",
+      "linije": "1,6,11,31",
+      "Opis": "smjer Trg bana J. Jelačića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9648330000001,
+      "y": 45.8126109990001,
+      "id": 24,
+      "naziv": "Britanski trg - sjever",
+      "linije": "1,6,11,31",
+      "Opis": "smjer Črnomerc",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0139310000001,
+      "y": 45.818970999,
+      "id": 25,
+      "naziv": "Park Maksimir - jug",
+      "linije": "4,5,7,11,12,34",
+      "Opis": "smjer Dubrava",
+      "Napomena": ""
+    },
+    {
+      "x": 16.012261,
+      "y": 45.8187179990001,
+      "id": 26,
+      "naziv": "Park Maksimir - sjever",
+      "linije": "4,5,7,11,12,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0310660000001,
+      "y": 45.8008379990001,
+      "id": 27,
+      "naziv": "Čavićeva - sjever",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 16.030477999,
+      "y": 45.801049999,
+      "id": 28,
+      "naziv": "Čavićeva - jug",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Savišće",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9339610010001,
+      "y": 45.8154089990001,
+      "id": 29,
+      "naziv": "Črnomerec izlaz - sjever",
+      "linije": "2,6,11,31",
+      "Opis": "terminal Črnomerec",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9345260000001,
+      "y": 45.8150429990001,
+      "id": 30,
+      "naziv": "Črnomerec ulaz 6,11 - jug",
+      "linije": "6,11,31",
+      "Opis": "terminal Črnomerec, ulaz linija 6,11",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9345260000001,
+      "y": 45.8151069990001,
+      "id": 31,
+      "naziv": "Črnomerec ulaz 2 - jug",
+      "linije": 2,
+      "Opis": "terminal Črnomerec, ulaz linija 2",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0637790000001,
+      "y": 45.8286699990001,
+      "id": 32,
+      "naziv": "Čulinečka - jug",
+      "linije": "4,11,34",
+      "Opis": "smjer Dubec",
+      "Napomena": ""
+    },
+    {
+      "x": 16.062186001,
+      "y": 45.829014999,
+      "id": 33,
+      "naziv": "Čulinečka - sjever",
+      "linije": "4,11,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 16.056632,
+      "y": 45.829572999,
+      "id": 34,
+      "naziv": "Dankovečka - jug",
+      "linije": "4,11,34",
+      "Opis": "smjer Dubec",
+      "Napomena": ""
+    },
+    {
+      "x": 16.054583,
+      "y": 45.829467999,
+      "id": 35,
+      "naziv": "Dankovečka - sjever",
+      "linije": "4,11,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 16.014620999,
+      "y": 45.8029709990001,
+      "id": 36,
+      "naziv": "Donje Svetice - jug",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Žitnjak",
+      "Napomena": ""
+    },
+    {
+      "x": 16.015292001,
+      "y": 45.8031589990001,
+      "id": 37,
+      "naziv": "Donje Svetice - sjever",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9833590000001,
+      "y": 45.8129109990001,
+      "id": 38,
+      "naziv": "Draškovićeva - zapad",
+      "linije": "4,8,11,12,14,33,34",
+      "Opis": "smjer Trg bana J. Jelačića \\Ulica kneza Branimira",
+      "Napomena": ""
+    },
+    {
+      "x": 15.983511,
+      "y": 45.813301999,
+      "id": 39,
+      "naziv": "Draškovićeva - istok",
+      "linije": "4,8,11,12,14,33,34",
+      "Opis": "smjer Dubrava\\Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 15.995035,
+      "y": 45.8019239990001,
+      "id": 40,
+      "naziv": "Držićeva - istok",
+      "linije": "2,5,6,7,8,31",
+      "Opis": "smjer Ulica kneza Branimira\\Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9962380000001,
+      "y": 45.8010919990001,
+      "id": 41,
+      "naziv": "Držićeva - jug",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Žitnjak",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9958580000001,
+      "y": 45.800400999,
+      "id": 42,
+      "naziv": "Držićeva - zapad",
+      "linije": "6,7,8,31",
+      "Opis": "smjer Novi Zagreb",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9943940000001,
+      "y": 45.801070999,
+      "id": 43,
+      "naziv": "Držićeva - sjever",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0778240010001,
+      "y": 45.827908999,
+      "id": 44,
+      "naziv": "Dubec ulaz -  sjever",
+      "linije": "4,11,34",
+      "Opis": "terminal Dubec, izlaz\\ulaz",
+      "Napomena": ""
+    },
+    {
+      "x": 16.077794,
+      "y": 45.827844999,
+      "id": 45,
+      "naziv": "Dubec ulaz - jug",
+      "linije": "4,11,34",
+      "Opis": "terminal  Dubec , izlaz\\ulaz",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0399100000001,
+      "y": 45.824778999,
+      "id": 46,
+      "naziv": "Dubrava - jug",
+      "linije": "4,11,34",
+      "Opis": "smjer Dubec",
+      "Napomena": ""
+    },
+    {
+      "x": 16.037358,
+      "y": 45.824356999,
+      "id": 47,
+      "naziv": "Dubrava 4,11,34 - sjever",
+      "linije": "4,11, 34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 16.037221,
+      "y": 45.824423999,
+      "id": 48,
+      "naziv": "Dubrava 7 - sjever",
+      "linije": 7,
+      "Opis": "terminal Dubrava, izlaz\\ulaz",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0372160000001,
+      "y": 45.824489999,
+      "id": 49,
+      "naziv": "Dubrava 12 - sjever",
+      "linije": 12,
+      "Opis": "terminal Dubrava, izlaz\\ulaz",
+      "Napomena": ""
+    },
+    {
+      "x": 16.037406,
+      "y": 45.797156999,
+      "id": 50,
+      "naziv": "Elka - istok",
+      "linije": "2,3,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 16.037523999,
+      "y": 45.7968719990001,
+      "id": 51,
+      "naziv": "Elka - zapad",
+      "linije": "2,3,33",
+      "Opis": "smjer Savišće",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0232490000001,
+      "y": 45.804314999,
+      "id": 52,
+      "naziv": "Ferenščica - jug",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Savišće",
+      "Napomena": ""
+    },
+    {
+      "x": 16.023633999,
+      "y": 45.804342999,
+      "id": 53,
+      "naziv": "Ferenščica - sjever",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 16.002508999,
+      "y": 45.7919669990001,
+      "id": 54,
+      "naziv": "Folnegovićevo - istok",
+      "linije": "6,7,8,31",
+      "Opis": "smjer u grad",
+      "Napomena": ""
+    },
+    {
+      "x": 16.002216,
+      "y": 45.792230999,
+      "id": 55,
+      "naziv": "Folnegovićevo - zapad",
+      "linije": "6,7,8,31",
+      "Opis": "smjer Novi Zagreb",
+      "Napomena": ""
+    },
+    {
+      "x": 15.969619,
+      "y": 45.8125029990001,
+      "id": 56,
+      "naziv": "Frankopanska - istok",
+      "linije": "12,13,14,17,32,34",
+      "Opis": "smjer  Trg  bana Josipa Jelačića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.969406,
+      "y": 45.813251999,
+      "id": 57,
+      "naziv": "Frankopanska - jug",
+      "linije": "1,6,11,31",
+      "Opis": "smjer  Trg bana Josipa Jelačića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.96862,
+      "y": 45.8133069990001,
+      "id": 58,
+      "naziv": "Frankopanska - sjever",
+      "linije": "1,6,11,31",
+      "Opis": "smjer Črnomerec",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9694270000001,
+      "y": 45.812378999,
+      "id": 59,
+      "naziv": "Frankopanska - zapad",
+      "linije": "12,13,14,17,32,34",
+      "Opis": "smjer iz grada",
+      "Napomena": ""
+    },
+    {
+      "x": 16.026775,
+      "y": 45.8029319990001,
+      "id": 60,
+      "naziv": "Getaldićeva - jug",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Žitnjak",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0273500000001,
+      "y": 45.8027319990001,
+      "id": 61,
+      "naziv": "Getaldićeva - sjever",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9791010000001,
+      "y": 45.8052339990001,
+      "id": 62,
+      "naziv": "Glavni kolodvor - jug",
+      "linije": "2,4,6,9,13,31,33,34",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9784970000001,
+      "y": 45.8052769990001,
+      "id": 63,
+      "naziv": "Glavni kolodvor - sjever",
+      "linije": "2,4,6,9,13,31,33,34",
+      "Opis": "smjer Trg b. J. Jelačića\\Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.973311,
+      "y": 45.8541029990001,
+      "id": 64,
+      "naziv": "Grač. Mihaljevac - istok",
+      "linije": "15,33",
+      "Opis": "smjer Gračansko Dolje",
+      "Napomena": ""
+    },
+    {
+      "x": 15.973213,
+      "y": 45.8540169990001,
+      "id": 65,
+      "naziv": "Grač. Mihaljevac - zapad",
+      "linije": "15,33",
+      "Opis": "smjer Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9741720000001,
+      "y": 45.8583229990001,
+      "id": 66,
+      "naziv": "Gračani - istok",
+      "linije": "15,33",
+      "Opis": "smjer Gračansko Dolje",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9739290000001,
+      "y": 45.8582289990001,
+      "id": 67,
+      "naziv": "Gračani - zapad",
+      "linije": "15,33",
+      "Opis": "smjer Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9756050010001,
+      "y": 45.8487009990001,
+      "id": 68,
+      "naziv": "Gračanske stube - istok",
+      "linije": "15,33",
+      "Opis": "smjer Gračansko Dolje",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9754340000001,
+      "y": 45.8487879990001,
+      "id": 69,
+      "naziv": "Gračanske stube - zapad",
+      "linije": "15,33",
+      "Opis": "smjer Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 15.981642,
+      "y": 45.8606419990001,
+      "id": 70,
+      "naziv": "Gračansko Dolje izlaz - jug",
+      "linije": "15,33",
+      "Opis": "okretište Gračansko Dolje",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9810840000001,
+      "y": 45.860327999,
+      "id": 71,
+      "naziv": "Gračansko Dolje ulaz - sjever",
+      "linije": "15, 33",
+      "Opis": "smjer Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0524550000001,
+      "y": 45.828785999,
+      "id": 72,
+      "naziv": "Grižanska - jug",
+      "linije": "4,11,34",
+      "Opis": "smjer Dubec",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0519570000001,
+      "y": 45.8287999990001,
+      "id": 73,
+      "naziv": "Grižanska - sjever",
+      "linije": "4,11,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.979475,
+      "y": 45.8200029990001,
+      "id": 74,
+      "naziv": "Grškovićeva - istok",
+      "linije": "8,14,33",
+      "Opis": "smjer Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 15.979341999,
+      "y": 45.8198439990001,
+      "id": 75,
+      "naziv": "Grškovićeva - zapad",
+      "linije": "8,14,33",
+      "Opis": "smjer Draškovićeva ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9795530000001,
+      "y": 45.8279659990001,
+      "id": 76,
+      "naziv": "Gupčeva zvijezda - istok",
+      "linije": "8,14,33",
+      "Opis": "smjer Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 15.979536001,
+      "y": 45.8276749990001,
+      "id": 77,
+      "naziv": "Gupčeva zvijezda - zapad",
+      "linije": "8,14,33",
+      "Opis": "smjer Draškovićeva ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0080110000001,
+      "y": 45.8146859990001,
+      "id": 78,
+      "naziv": "Harambašićeva - jug",
+      "linije": "1,9,17,32",
+      "Opis": "smjer Borongaj",
+      "Napomena": ""
+    },
+    {
+      "x": 16.008631999,
+      "y": 45.8150449990001,
+      "id": 79,
+      "naziv": "Harambašićeva - sjever",
+      "linije": "1,9,17,32",
+      "Opis": "smjer Trg žrtava fašizma",
+      "Napomena": ""
+    },
+    {
+      "x": 16.010438,
+      "y": 45.8022809990001,
+      "id": 80,
+      "naziv": "Heinzelova - jug",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Žitnjak",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0013059990001,
+      "y": 45.8120499990001,
+      "id": 81,
+      "naziv": "Heinzelova - jug",
+      "linije": "1,9,17,32",
+      "Opis": "smjer Borongaj",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0113620010001,
+      "y": 45.802511999,
+      "id": 82,
+      "naziv": "Heinzelova - sjever",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9993880000001,
+      "y": 45.811570999,
+      "id": 83,
+      "naziv": "Heinzelova - sjever",
+      "linije": "1,9,17,32",
+      "Opis": "smjer Trg žrtava fašizma",
+      "Napomena": ""
+    },
+    {
+      "x": 16.022658,
+      "y": 45.8209929990001,
+      "id": 84,
+      "naziv": "Hondlova - jug",
+      "linije": "4,7,11,12,34",
+      "Opis": "smjer Dubrava\\Dubec",
+      "Napomena": ""
+    },
+    {
+      "x": 16.022101999,
+      "y": 45.8210129990001,
+      "id": 85,
+      "naziv": "Hondlova - sjever",
+      "linije": "4,7,11,12,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9422200000001,
+      "y": 45.7881609990001,
+      "id": 86,
+      "naziv": "Horvati - jug",
+      "linije": "5,17,32",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.940185,
+      "y": 45.7882329990001,
+      "id": 87,
+      "naziv": "Horvati - sjever",
+      "linije": "5,17,32",
+      "Opis": "smjer Prečko",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0198599990001,
+      "y": 45.8038499990001,
+      "id": 88,
+      "naziv": "Ivanićgradska - jug",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Žitnjak",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0206630000001,
+      "y": 45.8040539990001,
+      "id": 89,
+      "naziv": "Ivanićgradska - sjever",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Av.Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9574630000001,
+      "y": 45.809067999,
+      "id": 90,
+      "naziv": "Jagićeva - sjever",
+      "linije": 2,
+      "Opis": "smjer Črnomerec",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9775270010001,
+      "y": 45.8364829990001,
+      "id": 91,
+      "naziv": "Jandrićeva - istok",
+      "linije": "8,14,33",
+      "Opis": "smjer Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 15.977333,
+      "y": 45.8368599990001,
+      "id": 92,
+      "naziv": "Jandrićeva - zapad",
+      "linije": "8,14,33",
+      "Opis": "smjer Draškovićeva",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9205640000001,
+      "y": 45.7895759990001,
+      "id": 93,
+      "naziv": "Jarun - jug",
+      "linije": "5,17,32",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.920061,
+      "y": 45.789908999,
+      "id": 94,
+      "naziv": "Jarun - sjever",
+      "linije": "5,17,32",
+      "Opis": "smjer Prečko",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0080530010001,
+      "y": 45.817578999,
+      "id": 95,
+      "naziv": "Jordanovac - jug",
+      "linije": "4,5,7,11,12,34",
+      "Opis": "smjer Dubrava\\Dubec",
+      "Napomena": "linije 5 i 12 prometuju do okretišta Dubrava"
+    },
+    {
+      "x": 16.0076100000001,
+      "y": 45.8176319990001,
+      "id": 96,
+      "naziv": "Jordanovac - sjever",
+      "linije": "4,5,7,11,12,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.965717,
+      "y": 45.8053139990001,
+      "id": 97,
+      "naziv": "Jukićeva - sjever",
+      "linije": "",
+      "Opis": "smjer Zapadni kolodvor",
+      "Napomena": "Stajalište se koristi kod izlaza na trasu za linije 1,2,11 i 31"
+    },
+    {
+      "x": 15.9658440000001,
+      "y": 45.8051439990001,
+      "id": 98,
+      "naziv": "Jukićeva - jug",
+      "linije": "",
+      "Opis": "smjer Savska",
+      "Napomena": "Stajalište se koristi kod povratka u spremište za linije 1, 2,11 i 31"
+    },
+    {
+      "x": 16.048630001,
+      "y": 45.8275439990001,
+      "id": 99,
+      "naziv": "Kapucinska - jug",
+      "linije": "4,11,34",
+      "Opis": "smjer Dubec",
+      "Napomena": ""
+    },
+    {
+      "x": 16.048231,
+      "y": 45.8275819990001,
+      "id": 100,
+      "naziv": "Kapucinska - sjever",
+      "linije": "4,11,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9837390010001,
+      "y": 45.8104519990001,
+      "id": 101,
+      "naziv": "Klinika za traumatologiju - istok",
+      "linije": "4,8,33,34",
+      "Opis": "smjer Dubrava\\Mihaljevac",
+      "Napomena": "linije 4 i 34 smjer Dubec, linije 8 i 33 smjer Mihaljevac"
+    },
+    {
+      "x": 15.9835879990001,
+      "y": 45.810075999,
+      "id": 102,
+      "naziv": "Klinika za traumatologiju - zapad",
+      "linije": "4,8,33,34",
+      "Opis": "smjer Glavni kolodvor\\Autobusni kolodvor",
+      "Napomena": "linije 4, 34 i 33 smjer Glavni kolodvor, linija 8 smjer Zapruđe"
+    },
+    {
+      "x": 15.9453520000001,
+      "y": 45.7881389990001,
+      "id": 103,
+      "naziv": "Knežija - jug",
+      "linije": "5,17,32",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.944696,
+      "y": 45.7882329990001,
+      "id": 104,
+      "naziv": "Knežija - sjever",
+      "linije": "5,17,32",
+      "Opis": "smjer Prečko",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9849150000001,
+      "y": 45.8005279990001,
+      "id": 105,
+      "naziv": "Kruge - jug",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9854749990001,
+      "y": 45.8006169990001,
+      "id": 106,
+      "naziv": "Kruge - sjever",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9976419990001,
+      "y": 45.815329999,
+      "id": 107,
+      "naziv": "Kvaternikov trg - sjever",
+      "linije": "4,5,7,11,12,34",
+      "Opis": "smjer Trg Josipa Jelačića/Autobusni kolodvor",
+      "Napomena": "linije 5 i 7 prometuju prema Autobusnom kolodvoru"
+    },
+    {
+      "x": 15.9973550010001,
+      "y": 45.8148849990001,
+      "id": 108,
+      "naziv": "Kvaternikov trg ulaz/izlaz - istok",
+      "linije": 13,
+      "Opis": "smjer Trg bana Josipa Jelačića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.99699,
+      "y": 45.814917999,
+      "id": 109,
+      "naziv": "Kvaternikov trg - jug",
+      "linije": "4,11,12,34",
+      "Opis": "smjer Dubrava\\Dubec",
+      "Napomena": "Linija 12 prometuje do okretišta Dubrava, linije 4, 11 i 34 smjer Dubec"
+    },
+    {
+      "x": 15.9801550010001,
+      "y": 45.8002709990001,
+      "id": 110,
+      "naziv": "Lisinski - jug",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.977874,
+      "y": 45.800237999,
+      "id": 111,
+      "naziv": "Lisinski - sjever",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 16.04526,
+      "y": 45.8263749990001,
+      "id": 112,
+      "naziv": "Ljubijska - jug",
+      "linije": "4,11,34",
+      "Opis": "smjer Dubec",
+      "Napomena": ""
+    },
+    {
+      "x": 16.043803,
+      "y": 45.826024999,
+      "id": 113,
+      "naziv": "Ljubijska - sjever",
+      "linije": "4,11,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.937553,
+      "y": 45.7972589990001,
+      "id": 114,
+      "naziv": "Ljubljanica izlaz - sjever",
+      "linije": "3,9,12,34",
+      "Opis": "terminal Ljubljanica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9385260010001,
+      "y": 45.797220999,
+      "id": 115,
+      "naziv": "Ljubljanica ulaz - jug",
+      "linije": "3,9,12,34",
+      "Opis": "terminal Ljubljanica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.948365,
+      "y": 45.8123849990001,
+      "id": 116,
+      "naziv": "Mandaličina - jug",
+      "linije": "2,6,11,31",
+      "Opis": "smjer Trg bana Josipa Jelačića\\Glavni kolodvor",
+      "Napomena": "Linija 2 smjer Glavni kolodvor"
+    },
+    {
+      "x": 15.9489840000001,
+      "y": 45.8125059990001,
+      "id": 117,
+      "naziv": "Mandaličina - sjever",
+      "linije": "2,6,11,31",
+      "Opis": "smjer Črnomerec",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0362650010001,
+      "y": 45.8232649990001,
+      "id": 118,
+      "naziv": "Mandlova - zapad",
+      "linije": "",
+      "Opis": "posljednje stajalište na trasi prije odlaska u spremište",
+      "Napomena": "Stajalište se koristi za povratak u  spremište za linije  4,6,7,11,12,14 ,31 i 33"
+    },
+    {
+      "x": 15.9023320000001,
+      "y": 45.793010999,
+      "id": 119,
+      "naziv": "Marijane Radev - jug",
+      "linije": "5,17,32",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.901912,
+      "y": 45.793235999,
+      "id": 120,
+      "naziv": "Marijane Radev - sjever",
+      "linije": "5,17,32",
+      "Opis": "smjer Prečko",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0033930000001,
+      "y": 45.8165059990001,
+      "id": 121,
+      "naziv": "Mašićeva - jug",
+      "linije": "4,5,7,11,12,34",
+      "Opis": "smjer Dubrava\\Dubec",
+      "Napomena": "linije 5 i 12 prometuju do okretišta Dubrava, linije 4,7,11,34 smjer Dubec"
+    },
+    {
+      "x": 16.002911999,
+      "y": 45.8165539990001,
+      "id": 122,
+      "naziv": "Mašićeva - sjever",
+      "linije": "4,5,7,11,12,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.97477,
+      "y": 45.8417959990001,
+      "id": 123,
+      "naziv": "Mihaljevac izlaz - istok",
+      "linije": "8,14,33",
+      "Opis": "terminal Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9747320010001,
+      "y": 45.8415879990001,
+      "id": 124,
+      "naziv": "Mihaljevac ulaz - zapad",
+      "linije": "8,14,33",
+      "Opis": "smjer Draškovićeva ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.975103,
+      "y": 45.842383999,
+      "id": 125,
+      "naziv": "Mihaljevac ulaz 15 - jug",
+      "linije": "15,33",
+      "Opis": "smjer Gračansko Dolje",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9743480000001,
+      "y": 45.8420839990001,
+      "id": 126,
+      "naziv": "Mihaljevac izlaz 15 - zapad",
+      "linije": "15,33",
+      "Opis": "terminal  Mihaljevac",
+      "Napomena": "Prolazno stajalište za liniju 33"
+    },
+    {
+      "x": 15.975486,
+      "y": 45.800033999,
+      "id": 127,
+      "naziv": "Miramarska - jug",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.973706,
+      "y": 45.8000219990001,
+      "id": 128,
+      "naziv": "Miramarska - sjever",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0014830000001,
+      "y": 45.7823369990001,
+      "id": 129,
+      "naziv": "Most mladosti - istok",
+      "linije": "6,7,8,31",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 16.001273,
+      "y": 45.7819509990001,
+      "id": 130,
+      "naziv": "Most mladosti - zapad",
+      "linije": "6,7,8,31",
+      "Opis": "smjer Novi Zagreb",
+      "Napomena": ""
+    },
+    {
+      "x": 16.038197,
+      "y": 45.792589999,
+      "id": 131,
+      "naziv": "Munja - istok",
+      "linije": "2,3,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0384750000001,
+      "y": 45.793169999,
+      "id": 132,
+      "naziv": "Munja - zapad",
+      "linije": "2,3,33",
+      "Opis": "smjer Savišće",
+      "Napomena": ""
+    },
+    {
+      "x": 15.979589001,
+      "y": 45.777478999,
+      "id": 133,
+      "naziv": "Muzej suv.umjetnosti - jug",
+      "linije": "7,14,31",
+      "Opis": "smjer Zapruđe",
+      "Napomena": ""
+    },
+    {
+      "x": 15.980942,
+      "y": 45.7776049990001,
+      "id": 134,
+      "naziv": "Muzej suv.umjetnosti - sjever",
+      "linije": "7,14,31",
+      "Opis": "smjer Savski most",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9484180000001,
+      "y": 45.798757999,
+      "id": 135,
+      "naziv": "Nehajska - jug",
+      "linije": "3,9,12,34",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.947027,
+      "y": 45.798441999,
+      "id": 136,
+      "naziv": "Nehajska - sjever",
+      "linije": "3,9,12,34",
+      "Opis": "smjer Ljubljanica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.999764,
+      "y": 45.801276999,
+      "id": 137,
+      "naziv": "Olibska - jug",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Žitnjak",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0000390000001,
+      "y": 45.8013559990001,
+      "id": 138,
+      "naziv": "Olibska - sjever",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9911690000001,
+      "y": 45.813956999,
+      "id": 139,
+      "naziv": "Petrova - sjever",
+      "linije": "4,11,12,34",
+      "Opis": "smjer Draškovićeva ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9915800000001,
+      "y": 45.8138299990001,
+      "id": 140,
+      "naziv": "Petrova - jug",
+      "linije": "4,11,12,34",
+      "Opis": "smjer Dubrava\\Dubec",
+      "Napomena": "Linija 12 prometuju do okretišta Dubrava, linije 4,11,34 smjer Dubec"
+    },
+    {
+      "x": 15.9069690000001,
+      "y": 45.792385999,
+      "id": 141,
+      "naziv": "Petrovaradinska - jug",
+      "linije": "5,17,32",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9052760000001,
+      "y": 45.792632999,
+      "id": 142,
+      "naziv": "Petrovaradinska - sjever",
+      "linije": "5,17,32",
+      "Opis": "smjer Prečko",
+      "Napomena": ""
+    },
+    {
+      "x": 16.072842,
+      "y": 45.8281759990001,
+      "id": 143,
+      "naziv": "Poljanice IV - jug",
+      "linije": "4,11,34",
+      "Opis": "smjer Dubec",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0726550000001,
+      "y": 45.8283549990001,
+      "id": 144,
+      "naziv": "Poljanice IV - sjever",
+      "linije": "4,11,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.892596,
+      "y": 45.7942699990001,
+      "id": 145,
+      "naziv": "Prečko izlaz - sjever",
+      "linije": "5,17,32",
+      "Opis": "terminal  Prečko",
+      "Napomena": ""
+    },
+    {
+      "x": 15.8934790000001,
+      "y": 45.794363999,
+      "id": 146,
+      "naziv": "Prečko ulaz - jug",
+      "linije": "5,17,32",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9569970000001,
+      "y": 45.791569999,
+      "id": 147,
+      "naziv": "Prisavlje - istok",
+      "linije": "4,5,14,17,32",
+      "Opis": "smjer prema gradu",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9560090000001,
+      "y": 45.7904159990001,
+      "id": 148,
+      "naziv": "Prisavlje - zapad",
+      "linije": "4,5,14,17,32",
+      "Opis": "smjer Savski most\\Prečko",
+      "Napomena": "linije 4,14 smjer okretište Savski most, linije 5,17 i 32  smjer Prečko"
+    },
+    {
+      "x": 15.9780700000001,
+      "y": 45.8317539990001,
+      "id": 149,
+      "naziv": "Radićevo šetalište - istok",
+      "linije": "8,14,33",
+      "Opis": "smjer Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 15.977962,
+      "y": 45.831981999,
+      "id": 150,
+      "naziv": "Radićevo šetalište - zapad",
+      "linije": "8,14,33",
+      "Opis": "smjer Draškovićeva ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0038650000001,
+      "y": 45.801480999,
+      "id": 151,
+      "naziv": "Radnička - jug",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Žitnjak",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0046830000001,
+      "y": 45.801593999,
+      "id": 152,
+      "naziv": "Radnička - sjever",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 16.027505999,
+      "y": 45.822059999,
+      "id": 153,
+      "naziv": "Ravnice - jug",
+      "linije": "4,7,11,12,34",
+      "Opis": "smjer Dubrava\\Dubec",
+      "Napomena": "linije 5 i 12 prometuju do okretišta Dubrava, linije 4,7,11,34 smjer Dubec"
+    },
+    {
+      "x": 16.028334,
+      "y": 45.822373999,
+      "id": 154,
+      "naziv": "Ravnice - sjever",
+      "linije": "4,7,11,12,34",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.914718001,
+      "y": 45.7916069990001,
+      "id": 155,
+      "naziv": "Vrbani - jug",
+      "linije": "5,17,32",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.912919,
+      "y": 45.791867999,
+      "id": 156,
+      "naziv": "Vrbani - sjever",
+      "linije": "5,17,32",
+      "Opis": "smjer Prečko",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0344690000001,
+      "y": 45.7890819990001,
+      "id": 157,
+      "naziv": "Savišće izlaz - zapad",
+      "linije": "2,3,33",
+      "Opis": "terminal Savišće",
+      "Napomena": ""
+    },
+    {
+      "x": 16.034923,
+      "y": 45.7893989990001,
+      "id": 158,
+      "naziv": "Savišće ulaz - istok",
+      "linije": "2,3,33",
+      "Opis": "smjer Av.Marina.Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9567850010001,
+      "y": 45.777078999,
+      "id": 159,
+      "naziv": "Savski gaj - jug",
+      "linije": "7,14,31",
+      "Opis": "smjer Zapruđe",
+      "Napomena": ""
+    },
+    {
+      "x": 15.95633,
+      "y": 45.7771799990001,
+      "id": 160,
+      "naziv": "Savski gaj - sjever",
+      "linije": "7,14,31",
+      "Opis": "smjer Savski most",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9524459990001,
+      "y": 45.7851009990001,
+      "id": 161,
+      "naziv": "Savski most izlaz - zapad",
+      "linije": "4,7,31",
+      "Opis": "terminal  Savski most",
+      "Napomena": ""
+    },
+    {
+      "x": 15.953386,
+      "y": 45.7862259990001,
+      "id": 162,
+      "naziv": "Savski most ulaz 4 - istok",
+      "linije": 4,
+      "Opis": "terminal Savski most, smjer Glavni kolodvor",
+      "Napomena": ""
+    },
+    {
+      "x": 15.953176,
+      "y": 45.7860019990001,
+      "id": 163,
+      "naziv": "Savski most ulaz 7 - istok",
+      "linije": "7,31",
+      "Opis": "terminal Savski most, smjer Novi Zagreb",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9441390000001,
+      "y": 45.7977979990001,
+      "id": 164,
+      "naziv": "Selska - jug",
+      "linije": "3,9,12,34",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9423550000001,
+      "y": 45.797698999,
+      "id": 165,
+      "naziv": "Selska - sjever",
+      "linije": "3,9,12,34",
+      "Opis": "smjer Ljubljanica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9839020000001,
+      "y": 45.8083569990001,
+      "id": 166,
+      "naziv": "Sheraton - istok",
+      "linije": "4,8,33,34",
+      "Opis": "smjer Trg hrvatskih velikana",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9846160000001,
+      "y": 45.8080819990001,
+      "id": 167,
+      "naziv": "Sheraton - jug",
+      "linije": "9,13",
+      "Opis": "smjer Borongaj",
+      "Napomena": ""
+    },
+    {
+      "x": 15.983844,
+      "y": 45.8069849990001,
+      "id": 168,
+      "naziv": "Sheraton - zapad",
+      "linije": "4,8,9,13,33,34",
+      "Opis": "smjer Glavni kolodvor\\Autobusni kolodvor",
+      "Napomena": "linije 4,9,13 smjer Glavni kolodvor, linija 8,33 i 34 smjer Autobusni kolodvor"
+    },
+    {
+      "x": 15.898938,
+      "y": 45.794163999,
+      "id": 169,
+      "naziv": "Slavenskog - jug",
+      "linije": "5,17,32",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.8984810000001,
+      "y": 45.794390999,
+      "id": 170,
+      "naziv": "Slavenskog - sjever",
+      "linije": "5,17,32",
+      "Opis": "smjer Prečko",
+      "Napomena": ""
+    },
+    {
+      "x": 15.998590001,
+      "y": 45.7969009990001,
+      "id": 171,
+      "naziv": "Slavonska  - zapad",
+      "linije": "6,7,8,31",
+      "Opis": "smjer Zapruđe",
+      "Napomena": ""
+    },
+    {
+      "x": 15.998908,
+      "y": 45.7966019990001,
+      "id": 172,
+      "naziv": "Slavonska - istok",
+      "linije": "6,7,8,31",
+      "Opis": "smjer Autobusni kolodvor",
+      "Napomena": ""
+    },
+    {
+      "x": 15.951808,
+      "y": 45.8124149990001,
+      "id": 173,
+      "naziv": "Slovenska - jug",
+      "linije": "2,6,11,31",
+      "Opis": "smjer Trg bana J. Jelačića\\Glavni kolodvor",
+      "Napomena": "Linija 2 smjer Glavni kolodvor, linije 6,11 i 31 smjer Trg bana J. Jelačića"
+    },
+    {
+      "x": 15.9525600000001,
+      "y": 45.8125419990001,
+      "id": 174,
+      "naziv": "Slovenska - sjever",
+      "linije": "2,6,11,31",
+      "Opis": "smjer Črnomerec",
+      "Napomena": ""
+    },
+    {
+      "x": 15.984611,
+      "y": 45.7776919990001,
+      "id": 175,
+      "naziv": "Sopot  - sjever",
+      "linije": "6,7,14,31",
+      "Opis": "smjer Savski most",
+      "Napomena": "linija 14,7 smjer Savski most, posljednje stajalište na liniji 6"
+    },
+    {
+      "x": 15.9868050000001,
+      "y": 45.7776719990001,
+      "id": 176,
+      "naziv": "Sopot - jug",
+      "linije": "6,7,14,31",
+      "Opis": "smjer Zapruđe",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9915950000001,
+      "y": 45.777795999,
+      "id": 177,
+      "naziv": "Središće - jug",
+      "linije": "6,7,14,31",
+      "Opis": "smjer Zapruđe",
+      "Napomena": ""
+    },
+    {
+      "x": 15.989319999,
+      "y": 45.7778119990001,
+      "id": 178,
+      "naziv": "Središće - sjever",
+      "linije": "6,7,14,31",
+      "Opis": "smjer Savski most",
+      "Napomena": "Linija 6 prometuje do Sopota"
+    },
+    {
+      "x": 15.936812,
+      "y": 45.7881139990001,
+      "id": 179,
+      "naziv": "Srednjaci - jug",
+      "linije": "5,17,32",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.937464,
+      "y": 45.788217999,
+      "id": 180,
+      "naziv": "Srednjaci - sjever",
+      "linije": "5,17,32",
+      "Opis": "smjer Prečko",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9517740000001,
+      "y": 45.786259999,
+      "id": 181,
+      "naziv": "St. dom S. Radić  -istok",
+      "linije": "7,14,31",
+      "Opis": "smjer Savski most",
+      "Napomena": ""
+    },
+    {
+      "x": 15.950969,
+      "y": 45.786375999,
+      "id": 182,
+      "naziv": "St. dom S. Radić - jug",
+      "linije": "5,17,32",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9524270000001,
+      "y": 45.786774999,
+      "id": 183,
+      "naziv": "St. dom S. Radić - sjever",
+      "linije": "5,17,14,31,32",
+      "Opis": "smjer Prečko\\Zapruđe",
+      "Napomena": "linije 5,17 i 32 smjer Prečko, linija 14 i 31 smjer Zapruđe"
+    },
+    {
+      "x": 15.9294550000001,
+      "y": 45.7878979990001,
+      "id": 184,
+      "naziv": "Staglišće -jug",
+      "linije": "5,17,32",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9300890000001,
+      "y": 45.7878249990001,
+      "id": 185,
+      "naziv": "Staglišće - sjever",
+      "linije": "5,17,32",
+      "Opis": "smjer Prečko",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9889380000001,
+      "y": 45.8007289990001,
+      "id": 186,
+      "naziv": "Strojarska - jug",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.989557,
+      "y": 45.800822999,
+      "id": 187,
+      "naziv": "Strojarska - sjever",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.964723,
+      "y": 45.8029079990001,
+      "id": 188,
+      "naziv": "Studentski centar - istok",
+      "linije": "3,4,13,14,17,32,33",
+      "Opis": "smjer prema gradu",
+      "Napomena": ""
+    },
+    {
+      "x": 15.964259,
+      "y": 45.802517999,
+      "id": 189,
+      "naziv": "Studentski centar - zapad",
+      "linije": "3,4,13,14,17,32,33",
+      "Opis": "smjer iz grada",
+      "Napomena": ""
+    },
+    {
+      "x": 15.993654,
+      "y": 45.810759999,
+      "id": 190,
+      "naziv": "Šubićeva - istok",
+      "linije": "5,7,13",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9942879990001,
+      "y": 45.8104469990001,
+      "id": 191,
+      "naziv": "Šubićeva - jug",
+      "linije": "1,9,17,32",
+      "Opis": "smjer Borongaj",
+      "Napomena": ""
+    },
+    {
+      "x": 15.992281,
+      "y": 45.8102669990001,
+      "id": 192,
+      "naziv": "Šubićeva - sjever",
+      "linije": "1,9,13,17,32",
+      "Opis": "smjer Trg žrtava fašizma",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9928679990001,
+      "y": 45.809875999,
+      "id": 193,
+      "naziv": "Šubićeva - zapad",
+      "linije": "5,7",
+      "Opis": "smjer Autobusni kolodvor",
+      "Napomena": ""
+    },
+    {
+      "x": 16.004512,
+      "y": 45.8131969990001,
+      "id": 194,
+      "naziv": "Šulekova - jug",
+      "linije": "1,9,17,32",
+      "Opis": "smjer Borongaj",
+      "Napomena": ""
+    },
+    {
+      "x": 16.00474,
+      "y": 45.8133549990001,
+      "id": 195,
+      "naziv": "Šulekova - sjever",
+      "linije": "1,9,17,32",
+      "Opis": "smjer Trg žrtava fašizma",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9430090000001,
+      "y": 45.8132189990001,
+      "id": 196,
+      "naziv": "Sveti Duh - jug",
+      "linije": "2,6,11,31",
+      "Opis": "smjer Trg bana J. Jelačića\\Glavni kolodvor",
+      "Napomena": "Linija 2 smjer Glavni kolodvor, linije 6,11 i 31 smjer Trg bana J. Jelačića"
+    },
+    {
+      "x": 15.9426330000001,
+      "y": 45.813412999,
+      "id": 197,
+      "naziv": "Sveti Duh - sjever",
+      "linije": "2,6,11,31",
+      "Opis": "smjer Črnomerec",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0134190000001,
+      "y": 45.815389999,
+      "id": 198,
+      "naziv": "Svetice  - sjever",
+      "linije": "1,9,17,32",
+      "Opis": "smjer Trg žrtava fašizma",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0127420000001,
+      "y": 45.815388999,
+      "id": 199,
+      "naziv": "Svetice - jug",
+      "linije": "1,9,17,32",
+      "Opis": "smjer Borongaj",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9710650000001,
+      "y": 45.799814999,
+      "id": 200,
+      "naziv": "Sveučilišna al. - jug",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9694280000001,
+      "y": 45.799809999,
+      "id": 201,
+      "naziv": "Sveučilišna al. - sjever",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.957009,
+      "y": 45.8096859990001,
+      "id": 202,
+      "naziv": "Talovčeva - zapad",
+      "linije": "1,2",
+      "Opis": "smjer Zapadni kolodvor/Glavni kolodvor",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9643700010001,
+      "y": 45.8032449990001,
+      "id": 203,
+      "naziv": "Tehnički muzej - jug",
+      "linije": "3,9,12,34",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.963558,
+      "y": 45.803442999,
+      "id": 204,
+      "naziv": "Tehnički muzej - sjever",
+      "linije": "3,9,12,34",
+      "Opis": "smjer Ljubljanica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.954920364,
+      "y": 45.8000222220001,
+      "id": 205,
+      "naziv": "Trešnjevački trg - jug",
+      "linije": "3,9,12,34",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9544500000001,
+      "y": 45.800105999,
+      "id": 206,
+      "naziv": "Trešnjevački trg - sjever",
+      "linije": "3,9,12,34",
+      "Opis": "smjer Ljubljanica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.956845,
+      "y": 45.813120999,
+      "id": 207,
+      "naziv": "Trg dr. F. Tuđmana - jug",
+      "linije": "2,6,11,31",
+      "Opis": "smjer Trg bana J. Jelačića\\Glavni kolodvor",
+      "Napomena": "Linija 2 smjer Glavni kolodvor, linije 6,11 i 31 smjer Trg bana J. Jelačića"
+    },
+    {
+      "x": 15.958083,
+      "y": 45.813191999,
+      "id": 208,
+      "naziv": "Trg dr. F. Tuđmana - sjever",
+      "linije": "1,6,11,31",
+      "Opis": "smjer Črnomerec\\Zapadni kolodvor",
+      "Napomena": "Linija 1 smjer Zapadni kolodvor, linije 6,11 i 31 smjer Črnomerec"
+    },
+    {
+      "x": 15.957455,
+      "y": 45.8127909990001,
+      "id": 209,
+      "naziv": "Trg dr. F. Tuđmana - istok",
+      "linije": "1,2",
+      "Opis": "smjer Črnomerec\\Trg bana J. Jelačića",
+      "Napomena": "Linija 2 smjer Črnomerec, linija 1 smjer Trg bana Josipa Jelačića"
+    },
+    {
+      "x": 15.9846630000001,
+      "y": 45.8113719990001,
+      "id": 210,
+      "naziv": "Trg hr. velikana - jug",
+      "linije": "1,17,32",
+      "Opis": "smjer Borongaj",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9843940000001,
+      "y": 45.811749999,
+      "id": 211,
+      "naziv": "Trg hr. velikana - sjever",
+      "linije": "1,17,32",
+      "Opis": "smjer Trg bana J. Jelačića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9772280010001,
+      "y": 45.8128569990001,
+      "id": 212,
+      "naziv": "Trg bana J. Jelačića - jug",
+      "linije": "1,6,11,12,13,14,17,31,32,34",
+      "Opis": "smjer Draškovićeva ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.976505,
+      "y": 45.8130649990001,
+      "id": 213,
+      "naziv": "Trg bana J. Jelačića - sjever",
+      "linije": "1,6,11,12,13,14,17,31,32,34",
+      "Opis": "smjer Frankopanska",
+      "Napomena": ""
+    },
+    {
+      "x": 15.991697,
+      "y": 45.8081099990001,
+      "id": 214,
+      "naziv": "Trg P. Krešimira IV - istok",
+      "linije": "5,7",
+      "Opis": "smjer Kvaternikov trg",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9916289990001,
+      "y": 45.807848999,
+      "id": 215,
+      "naziv": "Trg P. Krešimira IV - zapad",
+      "linije": "5,7",
+      "Opis": "smjer Autobusni kolodvor",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9686980000001,
+      "y": 45.8087429990001,
+      "id": 216,
+      "naziv": "Trg Republike Hrvatske  - istok",
+      "linije": "12,13,14,17,32,34",
+      "Opis": "smjer Trg bana J. Jelačića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.968821001,
+      "y": 45.8092859990001,
+      "id": 217,
+      "naziv": "Trg Republike Hrvatske - zapad",
+      "linije": "12,13,14,17,32,34",
+      "Opis": "smjer iz grada",
+      "Napomena": ""
+    },
+    {
+      "x": 15.987651,
+      "y": 45.8094159990001,
+      "id": 218,
+      "naziv": "Trg žrt. fašizma - jug",
+      "linije": "1,9,13,17,32",
+      "Opis": "smjer Šubićeva ulica",
+      "Napomena": ""
+    },
+    {
+      "x": 15.988434,
+      "y": 45.8100439990001,
+      "id": 219,
+      "naziv": "Trg žrt. fašizma - sjever",
+      "linije": "1,9,13,17,32",
+      "Opis": "smjer Trg bana J. Jelačića\\Glavni kolodvor",
+      "Napomena": "linije 1,17 i 32 smjer Trg bana J. Jelačića, linije 9 i 13 smjer Glavni kolodvor"
+    },
+    {
+      "x": 15.965241,
+      "y": 45.7770899990001,
+      "id": 220,
+      "naziv": "Trnsko - jug",
+      "linije": "7,14,31",
+      "Opis": "smjer Zapruđe",
+      "Napomena": ""
+    },
+    {
+      "x": 15.964701,
+      "y": 45.7771579990001,
+      "id": 221,
+      "naziv": "Trnsko - sjever",
+      "linije": "7,14,31",
+      "Opis": "smjer Savski most",
+      "Napomena": ""
+    },
+    {
+      "x": 15.996454,
+      "y": 45.813953999,
+      "id": 222,
+      "naziv": "Tržnica Kvatrić - istok",
+      "linije": "5,7,13",
+      "Opis": "smjer Dubrava\\Dubec",
+      "Napomena": "Linija 5 prometuje do okretišta Dubrava, linija 7 prometuje do okretišta Dubec, linija 13 do Kvaternikovog trga"
+    },
+    {
+      "x": 15.9948450000001,
+      "y": 45.8122049990001,
+      "id": 223,
+      "naziv": "Tržnica Kvatrić - zapad",
+      "linije": "5,7,13",
+      "Opis": "smjer Glavni kolodvor\\Autobusni kolodvor",
+      "Napomena": "Linija 13 smjer Glavni kolodvor, linija 5 i 7 Autobusni kolodvor"
+    },
+    {
+      "x": 15.9974730010001,
+      "y": 45.811028999,
+      "id": 224,
+      "naziv": "Tuškanova - jug",
+      "linije": "1,9,17,32",
+      "Opis": "smjer Borongaj",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9977640000001,
+      "y": 45.811156999,
+      "id": 225,
+      "naziv": "Tuškanova - sjever",
+      "linije": "1,9,17,32",
+      "Opis": "smjer Trg žrtava fašizma",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9609400000001,
+      "y": 45.797361999,
+      "id": 226,
+      "naziv": "Učit. fakultet - istok",
+      "linije": "4,5,14,17,32",
+      "Opis": "smjer prema gradu",
+      "Napomena": ""
+    },
+    {
+      "x": 15.960194001,
+      "y": 45.7965359990001,
+      "id": 227,
+      "naziv": "Učit. fakultet - zapad",
+      "linije": "4,5,14,17,32",
+      "Opis": "smjer Savski most\\Prečko",
+      "Napomena": "Linija 4 i 14 okretište Savski most, linije 5,17,32 smjer Prečko,"
+    },
+    {
+      "x": 15.9978860000001,
+      "y": 45.7779599990001,
+      "id": 228,
+      "naziv": "Utrina - jug",
+      "linije": "6,7,14,31",
+      "Opis": "smjer Zapruđe",
+      "Napomena": ""
+    },
+    {
+      "x": 15.995789001,
+      "y": 45.7779909990001,
+      "id": 229,
+      "naziv": "Utrina - sjever",
+      "linije": "6,7,14,31",
+      "Opis": "smjer Sopot\\Savski most",
+      "Napomena": "Linija 6 prometuje do Sopota"
+    },
+    {
+      "x": 15.9714690000001,
+      "y": 45.777255999,
+      "id": 230,
+      "naziv": "Velesajam - jug",
+      "linije": "7,14,31",
+      "Opis": "smjer Zapruđe",
+      "Napomena": ""
+    },
+    {
+      "x": 15.970827,
+      "y": 45.7773059990001,
+      "id": 231,
+      "naziv": "Velesajam - sjever",
+      "linije": "7,14,31",
+      "Opis": "smjer Savski most",
+      "Napomena": ""
+    },
+    {
+      "x": 15.955163,
+      "y": 45.7888839990001,
+      "id": 232,
+      "naziv": "Veslačka - istok",
+      "linije": "4,5,14,17,32",
+      "Opis": "smjer prema  gradu",
+      "Napomena": ""
+    },
+    {
+      "x": 15.954728,
+      "y": 45.7885439990001,
+      "id": 233,
+      "naziv": "Veslačka - zapad",
+      "linije": "4,5,14,17,32",
+      "Opis": "smjer Savski most\\ Prečko",
+      "Napomena": "Linija 4 i 14 smjer okretište Savski most, linije 5,17,32 smjer Prečko"
+    },
+    {
+      "x": 15.95926,
+      "y": 45.794904999,
+      "id": 234,
+      "naziv": "Vjesnik - istok",
+      "linije": "4,5,14,17,32",
+      "Opis": "smjer prema  gradu",
+      "Napomena": ""
+    },
+    {
+      "x": 15.958047,
+      "y": 45.793396999,
+      "id": 235,
+      "naziv": "Vjesnik - zapad",
+      "linije": "4,5,14,17,32",
+      "Opis": "smjer Savski most\\Prečko",
+      "Napomena": "Linija 4 i 14 smjer okretište Savski most, linije 5,17,32 smjer Prečko"
+    },
+    {
+      "x": 15.9669830010001,
+      "y": 45.8062359990001,
+      "id": 236,
+      "naziv": "Vodnikova - istok",
+      "linije": "12,13,14,17,32,34",
+      "Opis": "smjer Trg bana J. Jelačića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9670830000001,
+      "y": 45.8054759990001,
+      "id": 237,
+      "naziv": "Vodnikova - sjever",
+      "linije": "2,4,9,33",
+      "Opis": "smjer Savska cesta",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9665890000001,
+      "y": 45.805959999,
+      "id": 238,
+      "naziv": "Vodnikova - zapad",
+      "linije": "12,13,14,17,32,34",
+      "Opis": "smjer Savski most\\ Ljubljanica",
+      "Napomena": "Linija 12 i 34 smjer Ljubljanica,  linije 13,14,17 smjer iz grada"
+    },
+    {
+      "x": 15.9676450000001,
+      "y": 45.805392999,
+      "id": 239,
+      "naziv": "Vodnikova - jug",
+      "linije": "2,4,9,33",
+      "Opis": "smjer Glavni kolodvor",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9868559990001,
+      "y": 45.8138089990001,
+      "id": 240,
+      "naziv": "Vončinina - sjever",
+      "linije": "4,11,12,34",
+      "Opis": "smjer prema gradu",
+      "Napomena": ""
+    },
+    {
+      "x": 15.9867320010001,
+      "y": 45.8136769990001,
+      "id": 241,
+      "naziv": "Vončinina - jug",
+      "linije": "4,11,12,34",
+      "Opis": "smjer Dubrava\\Dubec",
+      "Napomena": "Linija 12 prometuje do okretišta Dubrava, linije 4, 11 i 34 smjer Dubec"
+    },
+    {
+      "x": 15.967546,
+      "y": 45.7996439990001,
+      "id": 242,
+      "naziv": "Vrbik - jug",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.962815001,
+      "y": 45.8001189990001,
+      "id": 243,
+      "naziv": "Zagrepčanka - istok",
+      "linije": "3,4,13,14,17,32,33",
+      "Opis": "smjer prema gradu",
+      "Napomena": ""
+    },
+    {
+      "x": 15.963247,
+      "y": 45.7994249990001,
+      "id": 244,
+      "naziv": "Zagrepčanka - jug",
+      "linije": "3,5,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.961686,
+      "y": 45.7987419990001,
+      "id": 245,
+      "naziv": "Zagrepčanka - zapad",
+      "linije": "4,5,14,17,32",
+      "Opis": "smjer Savski most\\ Prečko",
+      "Napomena": "Linija 4 i 14 okretište Savski most, linije 5,17,32 smjer Prečko,"
+    },
+    {
+      "x": 15.954909,
+      "y": 45.809491999,
+      "id": 246,
+      "naziv": "Zapadni kolodvor izlaz - sjever",
+      "linije": 1,
+      "Opis": "terminal Zapadni kolodvor",
+      "Napomena": ""
+    },
+    {
+      "x": 15.95516,
+      "y": 45.8093669990001,
+      "id": 247,
+      "naziv": "Zapadni kolodvor ulaz - jug",
+      "linije": 1,
+      "Opis": "smjer Trg bana J. Jelačića",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0016640000001,
+      "y": 45.7798359990001,
+      "id": 248,
+      "naziv": "Zapruđe - istok",
+      "linije": "6,7,31",
+      "Opis": "smjer prema gradu",
+      "Napomena": ""
+    },
+    {
+      "x": 16.000930999,
+      "y": 45.778044999,
+      "id": 249,
+      "naziv": "Zapruđe - jug",
+      "linije": "6,7,14,31",
+      "Opis": "smjer prema gradu",
+      "Napomena": "Posljednje stajalište na trasi linije 14"
+    },
+    {
+      "x": 16.0003600000001,
+      "y": 45.778107999,
+      "id": 250,
+      "naziv": "Zapruđe - sjever",
+      "linije": "6,7,31",
+      "Opis": "smjer Sopot\\Savski most",
+      "Napomena": "Linija 6 prometuje  do okretišta Sopot, linije 7 i 31 smjer Savski most"
+    },
+    {
+      "x": 16.0016370000001,
+      "y": 45.7796759990001,
+      "id": 251,
+      "naziv": "Zapruđe ulaz 8 - istok",
+      "linije": 8,
+      "Opis": "smjer Mihaljevac",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0003800000001,
+      "y": 45.7781209990001,
+      "id": 252,
+      "naziv": "Zapruđe ulaz 14 - sjever",
+      "linije": 14,
+      "Opis": "smjer Savski most",
+      "Napomena": ""
+    },
+    {
+      "x": 16.001779001,
+      "y": 45.778983999,
+      "id": 253,
+      "naziv": "Zapruđe-  zapad",
+      "linije": "6,7,8,31",
+      "Opis": "smjer  Savski most",
+      "Napomena": "Posljednje stajalište na trasi linije 8"
+    },
+    {
+      "x": 16.0364760000001,
+      "y": 45.7909079990001,
+      "id": 254,
+      "naziv": "Zg. transporti - istok",
+      "linije": "2,3,33",
+      "Opis": "smjer Av.Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0369260000001,
+      "y": 45.7914689990001,
+      "id": 255,
+      "naziv": "Zg. transporti - zapad",
+      "linije": "2,3,33",
+      "Opis": "smjer Žitnjak",
+      "Napomena": ""
+    },
+    {
+      "x": 16.034776,
+      "y": 45.7988609990001,
+      "id": 256,
+      "naziv": "Žitnjak - jug",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Savišće",
+      "Napomena": "Posljednje stajalište na trasi linije 13"
+    },
+    {
+      "x": 16.034341,
+      "y": 45.7991669990001,
+      "id": 257,
+      "naziv": "Žitnjak - sjever",
+      "linije": "2,3,13,33",
+      "Opis": "smjer Av. Marina Držića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.977859999,
+      "y": 45.809108999,
+      "id": 258,
+      "naziv": "Zrinjevac - istok",
+      "linije": "6,13,31,34",
+      "Opis": "smjer Trg bana J. Jelačića",
+      "Napomena": ""
+    },
+    {
+      "x": 15.977732001,
+      "y": 45.808958999,
+      "id": 259,
+      "naziv": "Zrinjevac zapad",
+      "linije": "6,13,31,34",
+      "Opis": "smjer Glavni kolodvor",
+      "Napomena": ""
+    },
+    {
+      "x": 16.0146159170001,
+      "y": 45.8192947530001,
+      "id": 265,
+      "naziv": "Okretište Park Maksimir - zapad",
+      "linije": 5,
+      "Opis": "Nije za ulaz i izlaz putnika, samo okretište",
+      "Napomena": ""
+    }
+  ]
