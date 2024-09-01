@@ -3,7 +3,6 @@ import Papa from 'papaparse';
 import {
   BarChart, Bar, XAxis, YAxis, Tooltip, Legend,
   LineChart, Line,
-  PieChart, Pie, Cell
 } from 'recharts';
 import './App.css';
 
@@ -43,22 +42,22 @@ const Graph2 = () => {
   return (
     <div className="container">
       <h2>Distribucija stanovništva po nacionalnosti i vjeri</h2>
-        <label>
-            Nacionalnost:
-      <select onChange={handleChangeNationality} value={selectedNationality}>
-        {data.map((item, index) => (
-          <option key={index} value={item.Nacionalnosti}>
-            {item.Nacionalnosti}
-          </option>
-        ))}
-      </select>
+      <label>
+        Nacionalnost:
+        <select onChange={handleChangeNationality} value={selectedNationality}>
+          {data.map((item, index) => (
+            <option key={index} value={item.Nacionalnosti}>
+              {item.Nacionalnosti}
+            </option>
+          ))}
+        </select>
       </label>
-<label>
-    Vrsta grafa:
-      <select onChange={handleChangeChartType} value={chartType}>
-        <option value="bar">Stupčasti Graf</option>
-        <option value="line">Linijski Graf</option>
-      </select>
+      <label>
+        Vrsta grafa:
+        <select onChange={handleChangeChartType} value={chartType}>
+          <option value="bar">Stupčasti Graf</option>
+          <option value="line">Linijski Graf</option>
+        </select>
       </label>
 
       <div className="chart-wrapper">
@@ -91,26 +90,24 @@ const ChartComponent = ({ data, type }) => {
   return (
     <div className='chart-container'>
       {type === 'bar' && (
-        <BarChart width={600} height={200} data={chartData}>
-          <XAxis dataKey="name" />
+<BarChart width={600} height={300} data={chartData} margin={{ top: 20, right: 30, left: 20, bottom: 80 }}>
+          <XAxis dataKey="name" angle={-45} textAnchor="end" />
           <YAxis />
           <Tooltip />
-          <Legend />
+          <Legend layout="top" />
           <Bar dataKey="value" fill="#8884d8" />
         </BarChart>
       )}
 
       {type === 'line' && (
         <LineChart width={600} height={200} data={chartData}>
-          <XAxis dataKey="name" />
+          <XAxis dataKey="name" angle={-45} textAnchor="end" />
           <YAxis />
           <Tooltip />
-          <Legend />
+          <Legend layout="top" />
           <Line type="monotone" dataKey="value" stroke="#8884d8" />
         </LineChart>
       )}
-
-     
     </div>
   );
 };
